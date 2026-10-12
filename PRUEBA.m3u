@@ -1,37 +1,55 @@
 #EXTM3U
 #EXTINF:-1 group-title="TDT",ES 4k- LA 1
+#EXTGRP:TDT
 http://espur1.vip:80/erm4e9lcrz/qanf7bn3wu/965558
 #EXTINF:-1 group-title="TDT",ES 4k- LA 2
+#EXTGRP:TDT
 http://espur1.vip:80/erm4e9lcrz/qanf7bn3wu/965559
 #EXTINF:-1 group-title="TDT",ES 4k- Antena 3
+#EXTGRP:TDT
 http://espur1.vip:80/erm4e9lcrz/qanf7bn3wu/965560
 #EXTINF:-1 group-title="TDT",ES 4k- Cuatro
+#EXTGRP:TDT
 http://espur1.vip:80/erm4e9lcrz/qanf7bn3wu/965561
 #EXTINF:-1 group-title="TDT",ES 4k- Telecinco
+#EXTGRP:TDT
 http://espur1.vip:80/erm4e9lcrz/qanf7bn3wu/965562
 #EXTINF:-1 group-title="TDT",ES 4k- LA Sexta
+#EXTGRP:TDT
 http://espur1.vip:80/erm4e9lcrz/qanf7bn3wu/965563
 #EXTINF:-1 group-title="TDT",ES 4k- 24 Horas
+#EXTGRP:TDT
 http://espur1.vip:80/erm4e9lcrz/qanf7bn3wu/965564
 #EXTINF:-1 group-title="TDT",ES 4k- A3SERIES
+#EXTGRP:TDT
 http://espur1.vip:80/erm4e9lcrz/qanf7bn3wu/965597
-#EXTINF:-1 group-title="FUTBOL",ES- M L CAMPEONES  SD
+#EXTINF:-1 group-title="FUTBOL",ES- M L CAMPEONES SD
+#EXTGRP:FUTBOL
 http://espur1.vip:80/erm4e9lcrz/qanf7bn3wu/50242
 #EXTINF:-1 group-title="FUTBOL",ES- M L CAMPEONES SD (backup)
+#EXTGRP:FUTBOL
 http://espur1.vip:80/erm4e9lcrz/qanf7bn3wu/1865739
 #EXTINF:-1 group-title="FUTBOL",ES- M L CAMPEONES SD Multiaudio
+#EXTGRP:FUTBOL
 http://espur1.vip:80/erm4e9lcrz/qanf7bn3wu/1867379
-#EXTINF:-1 group-title="FUTBOL",ES- M L CAMPEONES  HD
+#EXTINF:-1 group-title="FUTBOL",ES- M L CAMPEONES HD
+#EXTGRP:FUTBOL
 http://espur1.vip:80/erm4e9lcrz/qanf7bn3wu/65873
 #EXTINF:-1 group-title="FUTBOL",ES- M L CAMPEONES HD (backup)
+#EXTGRP:FUTBOL
 http://espur1.vip:80/erm4e9lcrz/qanf7bn3wu/1865741
-#EXTINF:-1 group-title="FUTBOL",ES- M L CAMPEONES  FHD
+#EXTINF:-1 group-title="FUTBOL",ES- M L CAMPEONES FHD
+#EXTGRP:FUTBOL
 http://espur1.vip:80/erm4e9lcrz/qanf7bn3wu/50249
 #EXTINF:-1 group-title="FUTBOL",ES- M L CAMPEONES FHD (backup)
+#EXTGRP:FUTBOL
 http://espur1.vip:80/erm4e9lcrz/qanf7bn3wu/1865743
 #EXTINF:-1 group-title="FUTBOL",ES- M L CAMPEONES FHD Multiaudio
+#EXTGRP:FUTBOL
 http://espur1.vip:80/erm4e9lcrz/qanf7bn3wu/1867380
 #EXTINF:-1 group-title="FUTBOL",ES- M L CAMPEONES FHD Multiaudio Backup
+#EXTGRP:FUTBOL
 http://espur1.vip:80/erm4e9lcrz/qanf7bn3wu/1867381
 #EXTINF:-1 group-title="FUTBOL",ES- M L CAMPEONES HDR (ES) (Orange)
+#EXTGRP:FUTBOL
 http://espur1.vip:80/erm4e9lcrz/qanf7bn3wu/1868971
